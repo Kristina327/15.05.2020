@@ -142,3 +142,8 @@ print(Mag.get_stats())
 Mag = Berserk(Mag)
 print(Mag.get_positive_effects())
 print(Mag.get_stats())
+>>>>>{'HP': 128, 'MP': 42, 'SP': 100, 'Strength': 15, 'Perception': 4, 'Endurance': 8, 'Charisma': 2, 'Intelligence': 3, 'Agility': 8, 'Luck': 1}
+['Curse']
+{'HP': 128, 'MP': 42, 'SP': 100, 'Strength': 13, 'Perception': 2, 'Endurance': 6, 'Charisma': 0, 'Intelligence': 1, 'Agility': 6, 'Luck': -1}
+['Berserk']
+{'HP': 178, 'MP': 42, 'SP': 100, 'Strength': 20, 'Perception': -1, 'Endurance': 13, 'Charisma': -3, 'Intelligence': -2, 'Agility': 13, 'Luck': 6}
