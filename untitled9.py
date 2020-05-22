@@ -76,7 +76,7 @@ super.notify({"title": "Покоритель", "text": "Дается при вы
 print(hero.stats)
 print(object_1.achievements)
 print(object_2.achievements)
-super.notify({"title": "Герой", "text": "Закрыл сессию без долгов", "impact": { "HP": 12, "MP": 50, "SP": 10,}})
+super.notify({"title": "Герой", "text": "Убил чудовище", "impact": { "HP": 12, "MP": 50, "SP": 10,}})
 print(hero.stats)
 print(object_1.achievements)
 print(object_2.achievements)
@@ -84,5 +84,5 @@ print(object_2.achievements)
 >>>>>[{'title': 'Покоритель', 'text': 'Дается при выполнении всех заданий в игре', 'impact': {'HP': 10, 'MP': 10, 'SP': 10}}]
 {'Покоритель'}
 {'HP': 150, 'MP': 102, 'SP': 120}
-[{'title': 'Покоритель', 'text': 'Дается при выполнении всех заданий в игре', 'impact': {'HP': 10, 'MP': 10, 'SP': 10}}, {'title': 'Герой', 'text': 'Закрыл сессию без долгов', 'impact': {'HP': 12, 'MP': 50, 'SP': 10}}]
+[{'title': 'Покоритель', 'text': 'Дается при выполнении всех заданий в игре', 'impact': {'HP': 10, 'MP': 10, 'SP': 10}}, {'title': 'Герой', 'text': 'Убил чудовище', 'impact': {'HP': 12, 'MP': 50, 'SP': 10}}]
 {'Герой', 'Покоритель'}
